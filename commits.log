@@ -1,0 +1,104 @@
+commit 9b17780e229dd2e98d2ef7651ebc23e5535369bd
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 02:45:09 2022 -0300
+
+    Agregando 2 párrafos
+
+commit 5e01a3e155b95b8fa4ab4c9e4e4740420bce4794
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 02:38:04 2022 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit d0acb7770692c6a1f712e26cb767b3978ade9265
+Merge: 5f665c2 7070dba
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 02:31:29 2022 -0300
+
+    Merge branch 'main' of https://github.com/Jorge-Godoy/practica-git
+
+commit 5f665c29e07d8a3ac3dc1b336602d990821da690
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 02:19:41 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7070dba57bfeb37341ef9aa947b893024db87d66
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 02:19:41 2022 -0300
+
+    Agregando las estaciones del año
+
+commit 49349cc86cb70ae7e8ff4467174f88b4273e305d
+Merge: 7c22a63 0d49aa3
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 02:13:25 2022 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 0d49aa32020622b5fe72d698ed3c54f2f4d9ab58
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 02:04:32 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 7c22a6398a8227a7028ac3ce25f72fd1b6899cc5
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 02:00:09 2022 -0300
+
+    Agregando style.css al index.html
+
+commit 44a6b8102fae202f2c49601dc10410693a2d07cb
+Merge: c3d8368 f4a176b
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 01:46:23 2022 -0300
+
+    Merge branch 'js'
+
+commit f4a176be1ba65ef63ed86447d87db5a9d2db89be
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 01:38:51 2022 -0300
+
+    Creando index.js
+
+commit c3d8368f4a289df73a6648486d9a6aea987da161
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 01:31:21 2022 -0300
+
+    Creando style.css
+
+commit 330e2c382eaa0959469ebef01e303d7403667611
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 01:22:49 2022 -0300
+
+    Creando index.html
+
+commit c6a78cc12f2be11e2360b541001cf514f0d4f898
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 01:03:13 2022 -0300
+
+    Ignorando archivos .exe
+
+commit d779ad101fd38b759eb2de92bc5c63f34bb53c17
+Author: Jorge-Godoy <116316914+Jorge-Godoy@users.noreply.github.com>
+Date:   Thu Oct 27 00:27:02 2022 -0300
+
+    Creando licencia del repositorio
+
+commit 6db00a7581a7cf801fca3752bbec885b622dda7a
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Thu Oct 27 00:13:33 2022 -0300
+
+    Agregando archivos
+
+commit eba4b3287f301e6aacd2991685d5d793f2c12767
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Wed Oct 26 23:21:20 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit 80a37c25046e75ac924edf77be46a65af17ee131
+Author: Jorge Godoy <godoy.jorge.ab@gmail.com>
+Date:   Wed Oct 26 23:15:58 2022 -0300
+
+    Primer commit

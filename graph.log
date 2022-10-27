@@ -1,0 +1,24 @@
+* 9b17780 Agregando 2 párrafos
+* 5e01a3e Resolviendo conflicto en estaciones del año y fecha de inicio
+*   d0acb77 Merge branch 'main' of https://github.com/Jorge-Godoy/practica-git
+|\  
+| * 7070dba Agregando las estaciones del año
+* | 5f665c2 Agregando estaciones del año con fecha de inicio
+|/  
+*   49349cc Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 0d49aa3 Agregando index.js al index.html
+* | 7c22a63 Agregando style.css al index.html
+* |   44a6b81 Merge branch 'js'
+|\ \  
+| * | f4a176b Creando index.js
+* | | c3d8368 Creando style.css
+| |/  
+|/|   
+* | 330e2c3 Creando index.html
+|/  
+* c6a78cc Ignorando archivos .exe
+* d779ad1 Creando licencia del repositorio
+* 6db00a7 Agregando archivos
+* eba4b32 Agregando contenido inicial al README
+* 80a37c2 Primer commit

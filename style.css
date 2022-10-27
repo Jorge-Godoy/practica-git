@@ -1,4 +1,10 @@
 html {
-    background-color: #000;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
 }

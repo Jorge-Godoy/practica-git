@@ -1,3 +1,5 @@
-Curso de Git y Github
+# Curso de _Git_ y _Github_
 
-Agregando al readme
+Agregando contenido al _README.md_
+
+Este commit es para oficializar nuestra versión **1.0.0**.
